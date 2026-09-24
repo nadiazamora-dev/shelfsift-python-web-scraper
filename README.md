@@ -41,15 +41,19 @@ Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Then run:
 
+```bash
 python scraper.py
+```
 
 ## built with
+
 - Python
 - requests
 - BeautifulSoup
 - pandas
 
-## The website used in this demo is a public scraping practice site.
+The website used in this demo is a public scraping practice site.
