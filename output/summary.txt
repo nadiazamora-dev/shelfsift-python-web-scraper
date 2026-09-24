@@ -1,0 +1,16 @@
+resumen - shelfsift
+===================
+paginas recorridas: 2
+libros encontrados: 40
+precio promedio: £34.96
+precio mediano: £34.08
+mas barato: In Her Wake (£12.84)
+mas caro: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 (£57.25)
+categoria mas repetida: Default
+
+ratings encontrados:
+1 estrellas: 9
+2 estrellas: 6
+3 estrellas: 9
+4 estrellas: 6
+5 estrellas: 10
